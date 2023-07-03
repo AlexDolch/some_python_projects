@@ -1,4 +1,4 @@
-# 20_python_projects
-https://www.youtube.com/watch?v=Whxnx9OPc2g&amp;ab_channel=Indently
+# some_python_projects
 
-Have to solidify my python foundations, got that course for free from a youtuber I like to learn from.
+To solidify my python skills, I did quite a few projects.
+Shoutout to https://www.youtube.com/@Indently for gifting his course via youtube, where most of these projects come from.
