@@ -1,3 +1,4 @@
+
 import math
 import random
 
@@ -37,3 +38,4 @@ class HumanPlayer(Player):
                 print("Invalid Square")
 
         return val
+
