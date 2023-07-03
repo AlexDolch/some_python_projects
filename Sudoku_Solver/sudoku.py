@@ -1,3 +1,4 @@
+
 def find_next_empty(puzzle):
     for r in range(9):
         for c in range(9):
@@ -33,3 +34,4 @@ def solve_sudoku(puzzle):
                 return True
         puzzle[row][col] = -1
     return False
+
